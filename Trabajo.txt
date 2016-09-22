@@ -1,4 +1,4 @@
-holaaaa
+﻿holaaaa
 
 
 
@@ -19,13 +19,13 @@ ya no mas poketontos
 ahora si la ultima vez
 
 
-=======
+
 int main()
 {
 	cout<<que sea la ultima vez porfa!!!!!!!<<endl;
 }
 
-
+cout<< dfdfdfdfffs
 
 
 tengo mucho sueño

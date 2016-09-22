@@ -1,6 +1,7 @@
 holaaaa
 <<<<<<< HEAD
 
+
 hola ahora si con fe
 
 
@@ -17,9 +18,25 @@ ya no mas poketontos
 
 ahora si la ultima vez
 
+<<<<<<< HEAD
 =======
 int main()
 {
 	cout<<que sea la ultima vez porfa!!!!!!!<<endl;
 }
+
+<<<<<<< HEAD
+tengo mucho sueño
+
+doteros del diablo!!
+
+chepo chamannnnnn!
+
+
+Hola mundo Ya se empezo hacer la tarea de nuevo
+Holaaa Aumentando  Edher
+Holaaa vmaos 
+ 
+madafaK
+
 

@@ -37,8 +37,7 @@ public:
 segundo inserción 
 tercera inserción 
 
-ultima 
-=======
+
 
 
 hola amigos pokemones 
@@ -51,4 +50,6 @@ cuantos pokemones mas
 ya no mas poketontos
 
 
->>>>>>> master
+
+ahora si la ultima vez
+

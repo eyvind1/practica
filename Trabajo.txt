@@ -1,2 +1,10 @@
 holaaaa
+<<<<<<< HEAD
 hola ahora si con fe
+=======
+
+hola amigos pokemones 
+
+hola pokemones
+
+>>>>>>> origin/master

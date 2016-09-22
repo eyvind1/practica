@@ -1,5 +1,7 @@
 holaaaa
+
 hola ahora si con fe
+<<<<<<< HEAD
 insertando un código 
 #ifndef MATRIX_H
 #define MATRIX_H
@@ -36,3 +38,17 @@ segundo inserción
 tercera inserción 
 
 ultima 
+=======
+
+
+hola amigos pokemones 
+
+hola pokemones
+
+
+
+cuantos pokemones mas
+ya no mas poketontos
+
+
+>>>>>>> master

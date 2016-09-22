@@ -1,4 +1,5 @@
 holaaaa
+<<<<<<< HEAD
 
 hola ahora si con fe
 
@@ -15,4 +16,10 @@ ya no mas poketontos
 
 
 ahora si la ultima vez
+
+=======
+int main()
+{
+	cout<<que sea la ultima vez porfa!!!!!!!<<endl;
+}
 
